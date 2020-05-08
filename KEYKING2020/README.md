@@ -1,0 +1,2 @@
+# KEYKING2020
+KEYKING2020 is my first ever completed portfolio project as a beginner software developer. After creating this project, I feel that I have gained the baseline knowledge necessary to pursue further software development more efficiently. Any feedback in relation to the implementation of the code would be greatly appreciated, as I am looking for better strategies for code efficiency and cleanliness.
